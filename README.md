@@ -135,18 +135,6 @@ A Firebase-backed Tic-Tac-Toe game with multiple game modes. Play locally, chall
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=peymancyb&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=peymancyb&layout=compact&theme=radical&hide_border=true&bg_color=0D1117)
-
-</div>
-
----
-
 ## 🎯 Current Focus
 
 - 🚀 Building and launching innovative web applications
